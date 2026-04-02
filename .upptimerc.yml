@@ -5,8 +5,8 @@ repo: fuzzy-upp
 sites:
   - name: root
     url: https://$DOMAIN/
-  - name: frpweb
-    url: https://frpweb.$DOMAIN/
+  # - name: frpweb
+  #   url: https://frpweb.$DOMAIN/
   - name: upku
     url: https://upku.$DOMAIN/
 
