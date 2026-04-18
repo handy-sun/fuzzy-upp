@@ -22,18 +22,20 @@
     "url": "https://upku.$DOMAIN/",
     "icon": "https://icons.duckduckgo.com/ip3/upku.$domain.ico",
     "slug": "upku",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 826,
-    "timeDay": 856,
-    "timeWeek": 849,
-    "timeMonth": 826,
-    "timeYear": 826,
-    "dailyMinutesDown": {}
+    "time": 816,
+    "timeDay": 735,
+    "timeWeek": 819,
+    "timeMonth": 816,
+    "timeYear": 816,
+    "dailyMinutesDown": {
+      "2026-04-18": 0
+    }
   },
   {
     "name": "bes",
