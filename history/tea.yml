@@ -1,7 +1,7 @@
 url: https://tea.$DOMAIN/
-status: down
-code: 404
-responseTime: 581
-lastUpdated: 2026-04-18T10:39:46.368Z
+status: up
+code: 200
+responseTime: 867
+lastUpdated: 2026-04-18T11:21:20.515Z
 startTime: 2026-04-02T05:19:40.747Z
 generator: Upptime <https://github.com/upptime/upptime>
