@@ -18,10 +18,10 @@ sites:
     url: https://hals.$DOMAIN/
   - name: qbe
     url: https://qbe.$DOMAIN/
-  - name: hemi
-    url: https://hemi.$DOMAIN/
-  - name: syth
-    url: https://syth.$DOMAIN/
+  # - name: hemi
+  #   url: https://hemi.$DOMAIN/
+  # - name: syth
+  #   url: https://syth.$DOMAIN/
   # - name: mutag
   #   url: https://mutag.$DOMAIN/
 
