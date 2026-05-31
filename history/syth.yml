@@ -1,7 +1,7 @@
 url: https://syth.$DOMAIN/
-status: up
-code: 200
-responseTime: 1338
-lastUpdated: 2026-05-31T00:06:05.184Z
+status: down
+code: 502
+responseTime: 710
+lastUpdated: 2026-05-31T06:59:46.014Z
 startTime: 2026-04-02T05:19:45.819Z
 generator: Upptime <https://github.com/upptime/upptime>
