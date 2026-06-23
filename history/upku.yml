@@ -1,7 +1,7 @@
 url: https://upku.$DOMAIN/
 status: down
-code: 502
-responseTime: 637
-lastUpdated: 2026-06-22T00:18:30.842Z
+code: 400
+responseTime: 676
+lastUpdated: 2026-06-23T00:14:12.624Z
 startTime: 2026-04-02T05:19:38.493Z
 generator: Upptime <https://github.com/upptime/upptime>
